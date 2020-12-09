@@ -1,5 +1,5 @@
 #!/bin/bash
-
+Fncnfbfbfbf
 # Checks if running with sudo permissions
 # If no, prompts user to enter sudo or exit
 trap ctrl_c SIGHUP SIGINT SIGTERM
